@@ -1,2 +1,4 @@
 this is a aaa.
-this is master.
+<<<<<<< HEAD
+this is master and dev.
+
